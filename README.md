@@ -1,2 +1,2 @@
 # Security-and-Monitoring-System-
-Collage Security and Attendance Monitoring System 
+College Security and Attendance Monitoring System 
